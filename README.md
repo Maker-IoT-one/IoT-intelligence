@@ -42,6 +42,11 @@
 
 ### 3、培训类、技术类情报-人力培训🪴
 
+- [华为云学习路径!!!(1226yang)](https://edu.huaweicloud.com/programs)
+>华为云全套技术学习路径！！！
+- [CodeArts Snap智能编程助手](https://devcloud.cn-north-4.huaweicloud.com/codeartside/home?product=snap#)
+>申请试用，一天即可通过，可通过Vscode/Pycharm下载CodeArts Snap使用
+
 - [STM32开源驱动库集合 (2023.12.26 yang)](https://github.com/MaJerle/stm32f429)
 >这个库里包含了STM32很多常用的外设驱动及常用器件的驱动：USART、I2C、SPI、ADC、DAC、RTC、USB、PWM、ILI9341、MPU6050等。
 
