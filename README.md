@@ -56,6 +56,7 @@
 
 - [如何讲ppt(2023.12.24 yang)](https://mp.weixin.qq.com/s/9mXpoWhRZT4K_VGpS9xidw)
 
+- [申请链接](https://devcloud.cn-north-4.huaweicloud.com/codeartssnap/apply?invitation-code=ide)
 ### 4、启发类（思维类）情报-未来👨🏻‍🎓
 
 - [迈入智能网联AIoT 2.0—2023年AIoT产业梳理及前沿洞察|彭昭演讲全文 (2023.12.26 hong)](https://mp.weixin.qq.com/s/qsaWOktaV8UIg2YUj56ArA?poc_token=HLCaimWjk8sifLq8rGFzEClosU6J7YrrXh0PCtIt)
