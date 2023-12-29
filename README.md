@@ -54,6 +54,8 @@
 
 - [HCIP-HarmonyOS Device Developer V1.0 学员用书 (2023.12.26 hong)](./doc/HCIP-HarmonyOS%20Device%20Developer%20V1.0%20学员用书.pdf)
 
+- [GitHub上的项目要怎么运行？一个视频教会你！](https://www.bilibili.com/video/BV1VC4y1F7DG/?spm_id_from=333.999.0.0&vd_source=8cd573a48a69b9763371bc6043f0f185)
+
 - [如何讲ppt(2023.12.24 yang)](https://mp.weixin.qq.com/s/9mXpoWhRZT4K_VGpS9xidw)
 
 - [申请链接](https://devcloud.cn-north-4.huaweicloud.com/codeartssnap/apply?invitation-code=ide)
@@ -63,7 +65,7 @@
 
 - [情报部门不能不懂信创,一文理解信创 (2023.12.24 yang)](https://zhuanlan.zhihu.com/p/148098873)
 
-- [华为鸿蒙2023的处境：华为鸿蒙2023：冰与火之歌](https://36kr.com/p/2578879806186880)
+- [明年，华为三大看点](https://mp.weixin.qq.com/s/JZ_mdoSwT54OWdwQSMriZQ)
 
 ### 5、汇报类情报(老师提，理事层学长学姐，主席团提)🤔
 
