@@ -58,7 +58,12 @@
 
 - [如何讲ppt(2023.12.24 yang)](https://mp.weixin.qq.com/s/9mXpoWhRZT4K_VGpS9xidw)
 
-- [申请链接](https://devcloud.cn-north-4.huaweicloud.com/codeartssnap/apply?invitation-code=ide)
+
+- [阿里云通义大模型：包含七种服务](https://tongyi.aliyun.com/?spm=5176.28103460.0.0.297c3f99tquhPX)
+
+- [ 程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
+
+- [鲲鹏社区-学习主页](https://www.hikunpeng.com/developer/learn)
 ### 4、启发类（思维类）情报-未来👨🏻‍🎓
 
 - [迈入智能网联AIoT 2.0—2023年AIoT产业梳理及前沿洞察|彭昭演讲全文 (2023.12.26 hong)](https://mp.weixin.qq.com/s/qsaWOktaV8UIg2YUj56ArA?poc_token=HLCaimWjk8sifLq8rGFzEClosU6J7YrrXh0PCtIt)
@@ -66,6 +71,8 @@
 - [情报部门不能不懂信创,一文理解信创 (2023.12.24 yang)](https://zhuanlan.zhihu.com/p/148098873)
 
 - [明年，华为三大看点](https://mp.weixin.qq.com/s/JZ_mdoSwT54OWdwQSMriZQ)
+
+- [2024科技追光-中国科学院](https://live.bilibili.com/1928)
 
 ### 5、汇报类情报(老师提，理事层学长学姐，主席团提)🤔
 
